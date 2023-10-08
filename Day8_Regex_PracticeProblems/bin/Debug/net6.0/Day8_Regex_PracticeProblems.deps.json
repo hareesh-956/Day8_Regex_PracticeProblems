@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day8_Regex_PracticeProblems/1.0.0": {
+        "runtime": {
+          "Day8_Regex_PracticeProblems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day8_Regex_PracticeProblems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

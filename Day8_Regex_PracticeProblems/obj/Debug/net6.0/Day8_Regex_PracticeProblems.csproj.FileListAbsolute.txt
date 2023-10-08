@@ -1,0 +1,15 @@
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\bin\Debug\net6.0\Day8_Regex_PracticeProblems.exe
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\bin\Debug\net6.0\Day8_Regex_PracticeProblems.deps.json
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\bin\Debug\net6.0\Day8_Regex_PracticeProblems.runtimeconfig.json
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\bin\Debug\net6.0\Day8_Regex_PracticeProblems.dll
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\bin\Debug\net6.0\Day8_Regex_PracticeProblems.pdb
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\Day8_Regex_PracticeProblems.csproj.AssemblyReference.cache
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\Day8_Regex_PracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\Day8_Regex_PracticeProblems.AssemblyInfoInputs.cache
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\Day8_Regex_PracticeProblems.AssemblyInfo.cs
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\Day8_Regex_PracticeProblems.csproj.CoreCompileInputs.cache
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\Day8_Regex_PracticeProblems.dll
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\refint\Day8_Regex_PracticeProblems.dll
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\Day8_Regex_PracticeProblems.pdb
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\Day8_Regex_PracticeProblems.genruntimeconfig.cache
+C:\Users\haree\source\repos\Day8_Regex_PracticeProblems\Day8_Regex_PracticeProblems\obj\Debug\net6.0\ref\Day8_Regex_PracticeProblems.dll
